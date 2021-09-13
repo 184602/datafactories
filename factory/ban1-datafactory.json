@@ -1,0 +1,9 @@
+{
+	"name": "ban1-datafactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b48c4030-87bf-4907-9f11-bdeb3c269797",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
